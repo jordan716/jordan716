@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a front-end developer with vast experience in several domains.
+I'm always working on new projects and learning new stuff, reading some book
 <!--
 **jordan716/jordan716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
