@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 I'm a front-end developer with vast experience in several domains.
-I'm always working on new projects and learning new stuff, reading some book
+
+
+My personal project are not visible on GitHub since I developed the project with NDA signing in private.
+
+I'm always learning new stuff, reading some book.
+
+Now, I'm actively looking for a new opportunity...
+
 <!--
 **jordan716/jordan716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
