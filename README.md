@@ -7,7 +7,7 @@ My personal project are not visible on GitHub since I developed the project with
 
 I'm always learning new stuff, reading some book.
 
-Now, I'm actively looking for a new opportunity...
+Now, I'm actively looking for a new opportunity.
 
 <!--
 **jordan716/jordan716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
